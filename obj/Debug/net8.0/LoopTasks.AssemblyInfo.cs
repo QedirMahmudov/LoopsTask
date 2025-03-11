@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffbb266a67123e9c7acd99714c89208a933d2f39")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

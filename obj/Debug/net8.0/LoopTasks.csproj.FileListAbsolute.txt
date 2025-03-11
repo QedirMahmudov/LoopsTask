@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\LoopTasks\obj\Debug\net8.0\refint
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.pdb
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\LoopTasks\obj\Debug\net8.0\ref\LoopTasks.dll
+C:\Users\ASUS\Desktop\Folders\CodeAcademyTasks\LoopTasks\obj\Debug\net8.0\LoopTasks.sourcelink.json
